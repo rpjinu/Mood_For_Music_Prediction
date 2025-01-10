@@ -3,6 +3,7 @@
 # 🌟 Mood-Based Music Recommendation System 🌟
 
 <img src="https://github.com/rpjinu/Mood_For_Music_Prediction/blob/main/project_image.png" width="600">
+
 ## 📊 Project Overview
 This project is a 🎶 Mood-Based Music Recommendation System 🎶 that utilizes 💻 deep learning and 🖼️ image processing to detect a user's mood from a still 📸 image. Based on the detected mood, the system recommends a personalized 🎵 music track from a predefined dataset. The primary objective is to enhance the user's emotional experience by aligning 🎶 music with their current mood.
 
