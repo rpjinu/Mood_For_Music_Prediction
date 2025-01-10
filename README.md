@@ -7,6 +7,8 @@
 ## 📊 Project Overview
 This project is a 🎶 Mood-Based Music Recommendation System 🎶 that utilizes 💻 deep learning and 🖼️ image processing to detect a user's mood from a still 📸 image. Based on the detected mood, the system recommends a personalized 🎵 music track from a predefined dataset. The primary objective is to enhance the user's emotional experience by aligning 🎶 music with their current mood.
 
+##Dataset link:-https://www.kaggle.com/datasets/rpjinu/moodformusic-dataset
+
 ## 🔗 Features
 - **😊 Mood Detection**: Utilizes a pre-trained 🤖 Convolutional Neural Network (CNN) model to detect the user's mood from an uploaded 📷 image.
 - **🎵 Music Recommendation**: Recommends 🎶 music based on the detected mood using a predefined 🗃️ CSV dataset.
